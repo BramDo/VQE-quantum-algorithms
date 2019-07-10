@@ -15,5 +15,4 @@ qaoa.py is the qaoa for finding the Max cut for a network with square_ring = squ
 
 IBMQ test files for qiskit-aqua are located in IBMQ folder
 
-vqe4max_cut_4_edges.png
-
+![](vqe4max_cut_4_edges.png) 
