@@ -7,7 +7,7 @@ Rigetti vqe test are located in the Rigetti folder
 
 qa_vqe_1.py uses pyQuil VQE algorithm and prints the minimum eigenvalue for Pauli Z matrix
 
-qa_vqe_2.py uses a function expactation for finding a eigenvalue for Pauli Z matrix
+qa_vqe_2.py uses a function expectation for finding a eigenvalue for Pauli Z matrix
 
 qa_vqe_3.py uses pyQuil VQE for a more complex matrix
 
